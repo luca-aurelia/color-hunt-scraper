@@ -1,0 +1,15 @@
+{
+  "name": "color-hunt",
+  "type": "module",
+  "version": "0.0.0",
+  "main": "index.js",
+  "author": "C. Thomas Bailey (@noise_machines)",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^2.1.1"
+  },
+  "bin": "./index.js",
+  "devDependencies": {
+    "np": "^6.2.0"
+  }
+}
